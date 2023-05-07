@@ -20,10 +20,12 @@
 > 以上所有語法對應的英文或符號也都可以講  
 ### 可省略語法
 > 乘法可省略、函數的括號逗號可省略、自訂函數的參數可省略
-### 連續語音輸入範例
+## 連續語音輸入範例
 ![image](https://user-images.githubusercontent.com/73873427/236664234-5c24db51-5c54-4815-ac9a-ec30c3e46380.png)
-### 運作過程的兩個步驟
-> #### 語音輸入(聽到的文本) -> 標準輸入
+## 運作過程的兩個步驟
+> ### 語音輸入(聽到的文本) -> 標準輸入  
+> ex:
 > ![image](https://user-images.githubusercontent.com/73873427/236665131-6de6447d-60e1-4528-959e-0e58ef5014aa.png)
-> #### 標準輸入 -> 計算結果
+> ### 標準輸入 -> 計算結果
+> ex:  
 > ![image](https://user-images.githubusercontent.com/73873427/236665149-99c7f3e9-dae7-46d0-b623-4821040a4729.png)
